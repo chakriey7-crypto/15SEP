@@ -6,6 +6,10 @@ let dog={
 console.log(typeof(dog))
 console.log(dog)
 
+
+dog.Height=5.6
+console.log(dog)
+
 console.log(typeof(dog))    
 
 
